@@ -56,10 +56,6 @@ Mapty is a web application that allows users to map and log their running and cy
 - `other.js` – Example/unused JS file
 - `.prettierrc` – Prettier configuration
 
-## Screenshots
-
-![App Screenshot](Mapty-architecture-final.png)
-
 ## Credits
 
 - App concept and original design by [Jonas Schmedtmann](https://twitter.com/jonasschmedtman).
@@ -127,10 +123,6 @@ Mapty is a web application that allows users to map and log their running and cy
 - `Mapty-architecture-*.png`, `Mapty-flowchart.png` – Project diagrams
 - `other.js` – Example/unused JS file
 - `.prettierrc` – Prettier configuration
-
-## Screenshots
-
-![App Screenshot](Mapty-architecture-final.png)
 
 ## Credits
 
